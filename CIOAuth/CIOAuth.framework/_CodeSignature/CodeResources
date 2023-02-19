@@ -4,71 +4,56 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIOAuthConst.h</key>
+		<key>Headers/CIOAuth-umbrella.h</key>
 		<data>
-		STgb71WruE+lB38y1NJKv7Qd28w=
-		</data>
-		<key>Headers/CIOAuthSDK.h</key>
-		<data>
-		jEsXhcHnI1QTPwu2Ljf45cTge5U=
+		ULzhbUUD03LOs3skBqMv/Gnzlic=
 		</data>
 		<key>Headers/CIOAuthTool.h</key>
 		<data>
-		HGGhQAYbAeim8cXpGbewjH9KCRg=
+		1A2tudiqx8nE90pMMUFnTZH2gZ4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M+9o4eACWzDCxuNafRSbjrsPGV4=
+		8BrzAdqkhmdAypq7O9LrVVOBkxs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		pkGP1/r7/NZFLkdD+k6YTy1G3ls=
+		eEZ3DPjQqnmnr8jU1wkIarR+bdk=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIOAuthConst.h</key>
+		<key>Headers/CIOAuth-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			STgb71WruE+lB38y1NJKv7Qd28w=
+			ULzhbUUD03LOs3skBqMv/Gnzlic=
 			</data>
 			<key>hash2</key>
 			<data>
-			EqUXeLjWQiJzxouhy19ZHvyK2akXDhJeQl1NhZxjHQs=
-			</data>
-		</dict>
-		<key>Headers/CIOAuthSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jEsXhcHnI1QTPwu2Ljf45cTge5U=
-			</data>
-			<key>hash2</key>
-			<data>
-			lPv3V0vqUu2KhGXDS/FAF/8SaE4IqbNexZmxx+YzxUI=
+			giIWnD7xHktvE/03rPOTcOIUQ6TPyZN2BOSe+EZDbbE=
 			</data>
 		</dict>
 		<key>Headers/CIOAuthTool.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HGGhQAYbAeim8cXpGbewjH9KCRg=
+			1A2tudiqx8nE90pMMUFnTZH2gZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xAdob7V+Bcu0D5FR3ayackIsZTJhK32ym9pkg4gff8w=
+			EXO/FfJVrb/T7ZSHPEVNO/mW9Q0tuAgZziu+sv1OW24=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pkGP1/r7/NZFLkdD+k6YTy1G3ls=
+			eEZ3DPjQqnmnr8jU1wkIarR+bdk=
 			</data>
 			<key>hash2</key>
 			<data>
-			jLjMF/JFfivPyoi4uv1qvpd7S/+G7bzp+7RhskwEGIM=
+			rzoY8bJ6f1QNCWtttDIWqHj+3COW06bpdjKH6U1e1OM=
 			</data>
 		</dict>
 	</dict>

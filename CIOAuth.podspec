@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIOAuthSDK'
-  s.version          = '0.1.16'
+  s.name             = 'CIOAuth'
+  s.version          = '0.1.17'
   s.summary          = 'A short description of CIOAuth.'
 
 # This description is used to generate tags and improve search results.
@@ -37,7 +37,7 @@ TODO: Add long description of the pod here.
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
   
-  s.vendored_frameworks = "CIOAuth/CIOAuthSDK.framework"
+  s.vendored_frameworks = "CIOAuth/CIOAuth.framework"
   
   s.dependency 'FBSDKLoginKit', '15.1.0'
   s.dependency 'GoogleSignIn', '7.0.0'

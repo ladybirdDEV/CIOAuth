@@ -1,0 +1,6 @@
+framework module CIOAuth {
+  umbrella header "CIOAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,6 +1,0 @@
-framework module CIOAuthSDK {
-  umbrella header "CIOAuthSDK.h"
-
-  export *
-  module * { export * }
-}
