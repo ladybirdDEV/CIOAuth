@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIOAuth-umbrella.h</key>
+		<key>Headers/CIOAuth.h</key>
 		<data>
-		ULzhbUUD03LOs3skBqMv/Gnzlic=
+		uGmF1jWAMWDPQbDn1ffLH9YFr+0=
 		</data>
 		<key>Headers/CIOAuthTool.h</key>
 		<data>
@@ -14,24 +14,24 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8BrzAdqkhmdAypq7O9LrVVOBkxs=
+		+1Pkuuh1ji0MRJ91H4hhTo8VxhU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eEZ3DPjQqnmnr8jU1wkIarR+bdk=
+		uCe8bQPPYjLvc+444oifRNtCWbk=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIOAuth-umbrella.h</key>
+		<key>Headers/CIOAuth.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ULzhbUUD03LOs3skBqMv/Gnzlic=
+			uGmF1jWAMWDPQbDn1ffLH9YFr+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			giIWnD7xHktvE/03rPOTcOIUQ6TPyZN2BOSe+EZDbbE=
+			84QSwlFaB+T0bVDpkVHKhdoUtRVoOfaWeEAMaESAyck=
 			</data>
 		</dict>
 		<key>Headers/CIOAuthTool.h</key>
@@ -49,11 +49,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eEZ3DPjQqnmnr8jU1wkIarR+bdk=
+			uCe8bQPPYjLvc+444oifRNtCWbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rzoY8bJ6f1QNCWtttDIWqHj+3COW06bpdjKH6U1e1OM=
+			XrQ2f/uAa/8XK7YD0RahElE/t6fRP4+1gyZIQu+V+aM=
 			</data>
 		</dict>
 	</dict>
