@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIOAuth'
-  s.version          = '0.1.18'
+  s.version          = '0.1.19'
   s.summary          = 'A short description of CIOAuth.'
 
 # This description is used to generate tags and improve search results.
@@ -39,6 +39,6 @@ TODO: Add long description of the pod here.
   
   s.vendored_frameworks = "CIOAuth/CIOAuth.framework"
   
-  s.dependency 'FBSDKLoginKit', '15.1.0'
+  s.dependency 'FBSDKLoginKit', '14.1.0'
   s.dependency 'GoogleSignIn', '7.0.0'
 end
